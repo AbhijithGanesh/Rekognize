@@ -1,0 +1,6 @@
+venv
+CustomImageDataset
+.idea
+__pycache__
+detected_faces
+labelled
