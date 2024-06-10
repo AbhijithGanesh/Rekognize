@@ -18,9 +18,9 @@ This project is an attendance system that uses face detection technology to trac
 
 ## Installation
 
-1. Clone the repository: `git clone https://github.com/your-repo/face-detection-for-attendance.git`
-2. Navigate to the project directory: `cd face-detection-for-attendance`
-3. Install the required dependencies: `pip install -r requirements.txt`
+1. Clone the repository: `git clone https://github.com/AbhijithGanesh/Rekognize.git`
+2. Navigate to the project directory: `cd Rekognize`
+3. Install the required dependencies: `pip install -r src/requirements.txt`
 4. Run the application: `python main.py`
 
 ## Usage
@@ -29,7 +29,7 @@ To use the system, simply start the application and position the camera to captu
 
 ## Contributing
 
-Contributions are welcome! Please read the [contributing guidelines](CONTRIBUTING.md) before getting started.
+Contributions are welcome!
 
 ## License
 

@@ -8,7 +8,7 @@ Content-Type: multipart/form-data; boundary=WebAppBoundary
 --WebAppBoundary
 Content-Disposition: form-data; name="file"; filename="file.jpg"
 
-< C:/Users/allen/Downloads/dense_class_side.jpg
+< <--insert file path-->
 --WebAppBoundary--
 
 ###

@@ -1,7 +1,7 @@
 from fastapi import FastAPI, File, UploadFile, HTTPException
 from fastapi.responses import FileResponse
 import os
-from src import classify, run_model
+from src import run_model
 import uuid
 from facenet_pytorch import MTCNN, extract_face
 import torch
